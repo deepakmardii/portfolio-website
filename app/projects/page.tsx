@@ -165,7 +165,7 @@ const projectsData: ProjectData[] = [
     name: "Awards",
     link: "https://awards-website.vercel.app/",
     githubLink: "https://github.com/deepakmardii/awards-website",
-    description: "Proof-of-concept website for a music agency website.",
+    description: "Proof-of-concept website for a music agency.",
     logos: [
       <SiNextdotjs className="text-xl" key="next.js" />,
       <BiLogoJavascript key="js" />,
