@@ -43,7 +43,7 @@ export default function Home() {
                   {...fadeInAnimation}
                   transition={{ delay: 2.5, duration: 1.5 }}
                 >
-                  a frontend developer
+                  a fulstack developer
                 </motion.p>
               </motion.div>
 
